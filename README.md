@@ -6,7 +6,7 @@ Automating school's bell system with ESP8266
 
 # **School Bell Automation Project**
 
-### Developer: [Shahriyor]
+### Developer: Shahriyor
 
 ## **Overview**
 
